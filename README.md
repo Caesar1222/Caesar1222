@@ -1,6 +1,6 @@
 ## Hi, I'm Cesar 🌌
 
-👾 Hi, I'm Cesar Batrez-Delatorre, a computer science student at Syracuse University with a High Performance Computing focus. I work in C++ and Python on numerical and scientific computing — recently an Avellaneda–Stoikov market-making simulator with a performance-critical C++ core (pybind11), and scalable matrix-approximation algorithms using randomized SGD and trace estimators. Interested in HPC, optimization, and quantitative finance.<br/>
+👾 Hi, I'm Cesar Batrez, a computer science student at Syracuse University with a High Performance Computing focus. I work in C++ and Python on numerical and scientific computing. Recent project: Avellaneda–Stoikov market-making simulator with a performance-critical C++ core (pybind11), and scalable matrix-approximation algorithms using randomized SGD and trace estimators. Interested in HPC, optimization, and quantitative finance.<br/>
 
 
 ## 🌐 Socials:
